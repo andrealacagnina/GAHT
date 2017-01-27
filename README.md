@@ -7,7 +7,7 @@ Hand tracking is one of the most challenging problem addressed in computer visio
 
 The Pipeline:
 
-www.snappymap.eu/Andrea/Img/GAHT_P1.png
+![alt tag](www.snappymap.eu/Andrea/Img/GAHT_P1.png)
 
 
 Results:
