@@ -1,5 +1,7 @@
 # GAHT
 ![GAHT Pipeline](http://www.snappymap.eu/Andrea/Img/GAHT_LOGO.png)
+
+
 A Graph Approach for Interactive Hand Tracking (GAHT) - Andrea Lacagnina (Ongoing publication)
 
 Abstract
